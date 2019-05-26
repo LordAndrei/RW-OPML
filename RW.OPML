@@ -5,12 +5,15 @@
     </head>
     <body>
         <outline text="RayWenderlich">
+            <outline type="rss" text="Ray WenderlichRay Wenderlich" title="Ray WenderlichRay Wenderlich" xmlUrl="http://www.raywenderlich.com/rss" description="Tutorials for iPhone / iOS Developers and Gamers" htmlUrl="https://www.raywenderlich.com"></outline>
             <outline type="rss" text="The raywenderlich.com Podcast: For App Developers and Gamers" title="The raywenderlich.com Podcast: For App Developers and Gamers" xmlUrl="https://feeds.blubrry.com/feeds/raywenderlich.xml" htmlUrl="https://www.raywenderlich.com"></outline>
         </outline>
         <outline text="Blogs">
         </outline>
         <outline text="Podcasts">
             <outline type="rss" text="Hero of the Week (Dru)" title="Hero of the Week" xmlUrl="https://www.drufreeman.com/hero?format=RSS" description="We give props and credit to a person who has done something positive for the world by standing up for their beliefs." htmlUrl="https://www.drufreeman.com/hero/"></outline>
+        </outline>
+        <outline text="Tutorials">
         </outline>
         <outline text="Suggested non-RW">
             <outline type="rss" text="Eschatology" title="Eschatology" xmlUrl="http://eschatologist.net/blog/?feed=rss2" htmlUrl="http://eschatologist.net/blog"></outline>
@@ -27,7 +30,6 @@
             <outline type="rss" text="iDevBlogADay" title="iDevBlogADay" xmlUrl="http://feeds.feedburner.com/idevblogaday" htmlUrl="https://idevblogaday.com"></outline>
             <outline type="rss" text="This Week in Swift" title="This Week in Swift" xmlUrl="https://swiftnews.curated.co/issues.rss" htmlUrl="https://swiftnews.curated.co/issues"></outline>
             <outline type="rss" text="Savvy Apps" title="Savvy Apps" xmlUrl="http://savvyapps.com/blog/feed.rss" htmlUrl="https://savvyapps.com/"></outline>
-            <outline type="rss" text="Ray WenderlichRay Wenderlich" title="Ray WenderlichRay Wenderlich" xmlUrl="http://www.raywenderlich.com/rss" description="Tutorials for iPhone / iOS Developers and Gamers" htmlUrl="https://www.raywenderlich.com"></outline>
             <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="https://oleb.net/blog/atom.xml" htmlUrl="https://oleb.net/blog/"></outline>
             <outline type="rss" text="Cult of Mac" title="Cult of Mac" xmlUrl="http://www.cultofmac.com/feed/" htmlUrl="https://www.cultofmac.com"></outline>
             <outline type="rss" text="Michael Neuwert's Blog" title="Michael Neuwert's Blog" xmlUrl="http://blog.neuwert-media.com/feed/" htmlUrl="http://blog.neuwert-media.com"></outline>
