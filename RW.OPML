@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>News Explorer</title>
+    </head>
+    <body>
+        <outline text="RayWenderlich">
+            <outline type="rss" text="The raywenderlich.com Podcast: For App Developers and Gamers" title="The raywenderlich.com Podcast: For App Developers and Gamers" xmlUrl="https://feeds.blubrry.com/feeds/raywenderlich.xml" htmlUrl="https://www.raywenderlich.com"></outline>
+        </outline>
+        <outline text="Blogs">
+        </outline>
+        <outline text="Podcasts">
+            <outline type="rss" text="Hero of the Week (Dru)" title="Hero of the Week" xmlUrl="https://www.drufreeman.com/hero?format=RSS" description="We give props and credit to a person who has done something positive for the world by standing up for their beliefs." htmlUrl="https://www.drufreeman.com/hero/"></outline>
+        </outline>
+        <outline text="Suggested non-RW">
+            <outline type="rss" text="Eschatology" title="Eschatology" xmlUrl="http://eschatologist.net/blog/?feed=rss2" htmlUrl="http://eschatologist.net/blog"></outline>
+            <outline type="rss" text="objc.io" title="objc.io" xmlUrl="http://www.objc.io/feed.xml" htmlUrl="http://www.objc.io"></outline>
+            <outline type="rss" text="Erica Sadun" title="Erica Sadun" xmlUrl="http://ericasadun.com/feed/" htmlUrl="https://ericasadun.com"></outline>
+            <outline type="rss" text="NSHipster" title="NSHipster" xmlUrl="http://nshipster.com/feed.xml" htmlUrl="https://nshipster.com/"></outline>
+            <outline type="rss" text="iOS Developer Tips" title="iOS Developer Tips" xmlUrl="http://iosdevelopertips.com/feed" htmlUrl="http://iosdevelopertips.com"></outline>
+            <outline type="rss" text="We ❤ Swift" title="We ❤ Swift" xmlUrl="https://www.weheartswift.com/feed/" htmlUrl="https://www.weheartswift.com"></outline>
+            <outline type="rss" text="iOS Dev Weekly" title="iOS Dev Weekly" xmlUrl="http://iosdevweekly.com/issues.rss" htmlUrl="https://iosdevweekly.com/issues"></outline>
+            <outline type="rss" text="AppCoda" title="AppCoda" xmlUrl="http://www.appcoda.com/feed/" htmlUrl="https://www.appcoda.com"></outline>
+            <outline type="rss" text="Cocoa with Love" title="Cocoa with Love" xmlUrl="https://www.cocoawithlove.com/index.xml" htmlUrl="https://www.cocoawithlove.com/"></outline>
+            <outline type="rss" text="Swift Programming - Medium" title="Swift Programming - Medium" xmlUrl="https://medium.com/feed/swift-programming" htmlUrl="https://medium.com/swift-programming?source=rss----5396e0e8bc29---4"></outline>
+            <outline type="rss" text="Cocoanetics" title="Cocoanetics" xmlUrl="https://www.cocoanetics.com/feed/" htmlUrl="https://www.cocoanetics.com"></outline>
+            <outline type="rss" text="iDevBlogADay" title="iDevBlogADay" xmlUrl="http://feeds.feedburner.com/idevblogaday" htmlUrl="https://idevblogaday.com"></outline>
+            <outline type="rss" text="This Week in Swift" title="This Week in Swift" xmlUrl="https://swiftnews.curated.co/issues.rss" htmlUrl="https://swiftnews.curated.co/issues"></outline>
+            <outline type="rss" text="Savvy Apps" title="Savvy Apps" xmlUrl="http://savvyapps.com/blog/feed.rss" htmlUrl="https://savvyapps.com/"></outline>
+            <outline type="rss" text="Ray WenderlichRay Wenderlich" title="Ray WenderlichRay Wenderlich" xmlUrl="http://www.raywenderlich.com/rss" description="Tutorials for iPhone / iOS Developers and Gamers" htmlUrl="https://www.raywenderlich.com"></outline>
+            <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="https://oleb.net/blog/atom.xml" htmlUrl="https://oleb.net/blog/"></outline>
+            <outline type="rss" text="Cult of Mac" title="Cult of Mac" xmlUrl="http://www.cultofmac.com/feed/" htmlUrl="https://www.cultofmac.com"></outline>
+            <outline type="rss" text="Michael Neuwert's Blog" title="Michael Neuwert's Blog" xmlUrl="http://blog.neuwert-media.com/feed/" htmlUrl="http://blog.neuwert-media.com"></outline>
+            <outline type="rss" text="Chris Eidhof" title="Chris Eidhof" xmlUrl="http://chris.eidhof.nl//index.xml" htmlUrl="http://chris.eidhof.nl/"></outline>
+            <outline type="rss" text="bignerdranch.com" title="bignerdranch.com" xmlUrl="https://www.bignerdranch.com/rss.xml" htmlUrl="https://www.bignerdranch.com/"></outline>
+            <outline type="rss" text="Swift Developer Blog" title="Swift Developer Blog" xmlUrl="http://swiftdeveloperblog.com/feed/" htmlUrl="http://swiftdeveloperblog.com"></outline>
+            <outline type="rss" text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" xmlUrl="https://developer.apple.com/swift/blog/news.rss" htmlUrl="https://developer.apple.com/swift/blog/"></outline>
+            <outline type="rss" text="Devgirl's Weblog" title="Devgirl's Weblog" xmlUrl="http://devgirl.org/feed/" htmlUrl="http://devgirl.org"></outline>
+            <outline type="rss" text="NSBlog" title="NSBlog" xmlUrl="https://www.mikeash.com/pyblog/rss.py" htmlUrl="http://www.mikeash.com/pyblog/"></outline>
+        </outline>
+        <outline text="Apple News">
+            <outline type="rss" text="9to5Mac » Feed" title="9to5Mac » Feed" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com"></outline>
+            <outline type="rss" text="All Mac Rumors Headlines" title="All Mac Rumors Headlines" xmlUrl="http://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com"></outline>
+            <outline type="rss" text="AppleInsider News" title="AppleInsider News" xmlUrl="http://appleinsider.com/appleinsider.rss" htmlUrl="//appleinsider.com"></outline>
+            <outline type="rss" text="News and Updates - Apple Developer" title="News and Updates - Apple Developer" xmlUrl="https://developer.apple.com/news/rss/news.rss" htmlUrl="https://developer.apple.com/news/"></outline>
+        </outline>
+        <outline text="Google News">
+        </outline>
+    </body>
+</opml>
